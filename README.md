@@ -92,8 +92,9 @@ Edit
 
 **Pranith Dongari**  
 🎓 Master’s Student, Florida Atlantic University (FAU)  
-🔗 [GitHub](https://github.com/Pranith-cloud)  
-💼 Passionate about building scalable data pipelines  
+🔗 GitHub: https://github.com/Pranith-cloud  
+🔗 LinkedIn: https://www.linkedin.com/in/pranithkumar  
+💼 Passionate about building scalable data pipelines    
 
 
 # 📌 Notes
